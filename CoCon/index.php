@@ -20,7 +20,7 @@
 					</a>
 				</div>
 				<div class='box mediation'>
-					<a href='mediation'>
+					<a href='http://www.coconmediation.nl/'>
 						<h2>Mediation</h2>
 						<p>Klacht is kracht</p>
 					</a>
