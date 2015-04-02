@@ -32,6 +32,7 @@ src: url(fonts/ProximaNova-Light.otf);
 
 body{
 	margin: 0;
+	/*background-color: #ecf0f1;*/
 	background-image: url('img/body-bg.png');
 }
 
