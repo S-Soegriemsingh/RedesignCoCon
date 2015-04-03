@@ -8,25 +8,25 @@
 			</header>
 			<div class='content'>
 				<div class='box buurtbemiddeling'>
-					<a href='http://www.buurtbemiddelingnederland.nl'>
+					<a class='main' href='http://www.buurtbemiddelingnederland.nl'>
 						<h2>Buurtbemiddeling</h2>
 						<p>Voor en door bewoners</p>
 					</a>
 				</div>
 				<div class='box jolo'>
-					<a href='jolo'>
+					<a class='main' href='jolo'>
 						<h2>JOLO</h2>
 						<p>Jongeren lossen het op</p>
 					</a>
 				</div>
 				<div class='box mediation'>
-					<a href='http://www.coconmediation.nl/'>
+					<a class='main' href='http://www.coconmediation.nl/'>
 						<h2>Mediation</h2>
 						<p>Klacht is kracht</p>
 					</a>
 				</div>
 				<div class='box advies-en-coaching'>
-					<a href='advies-en-coaching'>
+					<a class='main' href='advies-en-coaching'>
 						<h2>Advies &amp; Coaching</h2>
 						<ul>
 							<li>Inzicht</li>
@@ -36,7 +36,7 @@
 					</a>
 				</div>
 				<div class='box goudsmederij'>
-					<a href='goudsmederij'>
+					<a class='main' href='goudsmederij'>
 						<h2>De Goudsmederij</h2>
 						<ul>
 							<li>Ontmoeten</li>
@@ -47,7 +47,7 @@
 					</a>
 				</div>
 				<div class='box trainingen'>
-					<a href='trainingen'>
+					<a class='main' href='trainingen'>
 						<h2>Trainingen</h2>
 						<ul>
 							<li>Kennis</li>
