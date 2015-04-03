@@ -22,7 +22,7 @@
 							echo '<h1>';
 							the_title();
 							echo '</h1>';
-							the_excerpt();
+							the_content( $more_link_text , $strip_teaser );
 							echo '</p>';
 						endwhile; 
 					?>
