@@ -1,0 +1,71 @@
+/* Header
+-------------------------------------------------- */
+
+header{
+	background-image: url('../img/CoCon-Small.png');
+}
+
+/* Content
+-------------------------------------------------- */
+
+/* Menu
+---------------------------------------- */
+
+.box{
+	float: left;
+	width: 25%;
+	border-radius: 5px;
+	margin-bottom: 25px;
+	min-height: 390px;
+	text-align: center;
+}
+
+.box:hover{
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+.box h2 {
+	font-family: Asap;
+	font-size: 22px;
+	color: #FFF;
+}
+
+.box p {
+	font-family: ProximaNova;
+	font-style: italic;
+	font-size: 20px;
+	color: #FFF;
+}
+
+.box ul{
+	margin: 0;
+	padding: 0;
+}
+
+.box li{
+	width: 100%;
+	font-family: ProximaNova;
+	font-style: italic;
+	font-size: 20px;
+	color: #FFF;
+	list-style: none;
+}
+
+.info {
+	background-color: #334c60;
+	margin-left: 0;
+	margin-right: 6.25%;
+}
+
+.image {
+	background-color: #334c60;
+	margin-left: 6.25%;
+	margin-right: 6.25%;
+}
+
+.testimonials {
+	background-color: #334c60;
+	margin-left: 6.25%;
+	margin-right: 0;
+}
