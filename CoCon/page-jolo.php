@@ -10,6 +10,28 @@
 				<div class='box info'>
 					<h2>Content</h2>
 					<p>stuff</p>
+
+					<?php
+						// The Query
+						query_posts( array ( 'category_name' => 'Jolo', 'posts_per_page' => -1 ) );
+					?>
+
+					<?php
+						// The Loop
+						while ( have_posts() ) : the_post();
+							echo '<h1>';
+							the_title();
+							echo '</h1>';
+							the_excerpt();
+							echo '</p>';
+						endwhile; 
+					?>
+
+					<?php
+						// Reset Query
+						wp_reset_query();
+					?>
+
 				</div>
 				<div class='box image'>
 					<h2>Image</h2>
