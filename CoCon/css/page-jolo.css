@@ -5,6 +5,15 @@ header{
 	background-image: url('../img/Jolo-Small.png');
 }
 
+header a{
+	float: left;
+	text-decoration: none;
+	height: 130px;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
 /* Content
 -------------------------------------------------- */
 

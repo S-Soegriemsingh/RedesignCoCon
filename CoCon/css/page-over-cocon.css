@@ -5,14 +5,6 @@ header{
 	background-image: url('../img/CoCon-Small.png');
 }
 
-header a{
-	float: left;
-	text-decoration: none;
-	height: 130px;
-	width: 100%;
-	overflow: hidden;
-	text-align: center;
-}
 /* Content
 -------------------------------------------------- */
 
@@ -24,7 +16,6 @@ header a{
 hr {
 	width: 80%;
 }
-
 /* Menu
 ---------------------------------------- */
 
@@ -33,20 +24,20 @@ hr {
 	width: 25%;
 	border-radius: 5px;
 	margin-bottom: 25px;
-	min-height: 390px;
+	min-height: 250px;
 	text-align: center;
 }
 
 .box:hover{
-	opacity: 1;
+	opacity: 0.8;
 	cursor: default;
 }
 
 .box h2 {
-	font-family: Asap;
-	font-size: 22px;
-	color: #FFF;
-}
+  font-family: Asap;
+  font-size: 22px;
+  color: #FFF;
+  margin-top: 100px;}
 
 .box p {
 	font-family: ProximaNova;
@@ -70,19 +61,19 @@ hr {
 }
 
 .info {
-	background-color: #334c60;
+	background-color: #996cb8;
 	margin-left: 0;
 	margin-right: 6.25%;
 }
 
 .image {
-	background-color: #334c60;
+	background-color: #dd533f;
 	margin-left: 6.25%;
 	margin-right: 6.25%;
 }
 
 .testimonials {
-	background-color: #334c60;
+	background-color: #00ab94;
 	margin-left: 6.25%;
 	margin-right: 0;
 }
