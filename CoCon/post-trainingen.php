@@ -10,6 +10,7 @@ get_header();
 	<script type="text/javascript">
 		$(function(){
 			$(".entry-content").css("background-color", "#334c60");
+			$(".entry-title").append( "<a href='http://www.colouredconsultancy.nl'>&nbsp;</a>" );
 		});
 	</script>
 
@@ -24,7 +25,6 @@ get_header();
 			 * (where ___ is the post format) and that will be used instead.
 			 */
 			get_template_part( 'content', get_post_format() );
-
 		// End the loop.
 		endwhile;
 		?>
