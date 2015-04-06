@@ -1,6 +1,6 @@
 <?php
 /*
-Single Post Template: Jolo
+Single Post Template: Advies en Coaching
 Description: This part is optional, but helpful for describing the Post Template
 */
 
@@ -9,7 +9,7 @@ get_header();
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 	<script type="text/javascript">
 		$(function(){
-			$(".entry-content").css("background-color", "#dd533f");
+			$(".entry-content").css("background-color", "#11a7cb");
 		});
 	</script>
 
