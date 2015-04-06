@@ -1,0 +1,131 @@
+/* Header
+-------------------------------------------------- */
+
+header{
+	background-image: url('../img/CoCon-Small.png');
+}
+
+header a{
+	float: left;
+	text-decoration: none;
+	height: 130px;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+/* Content
+-------------------------------------------------- */
+
+.content a{
+	color: #FFF;
+	font-size: 15px;
+}
+
+hr {
+	width: 80%;
+}
+
+.vscf {
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 5px 5px;
+  vertical-align: baseline;
+  border-radius: 5px;
+}
+
+#vscf_message, #vscf_name, #vscf_email, #vscf_subject, #vscf_sum{
+	width: 70%;
+	border-radius: 5px;
+}
+
+.vscf_info {
+	padding: 5px 5px;
+}
+
+.error {
+	color: #f1c40f !important;
+	font-size: 16px !important;
+}
+
+.vscf_send {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background-color:#fb9e25; 
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+.vscf_send:hover {
+	background-color:#ffb778;
+}
+.vscf_send:active {
+	position:relative;
+	top:1px;
+}
+
+
+/* Menu
+---------------------------------------- */
+
+.box{
+	float: left;
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 25px;
+	min-height: 390px;
+	text-align: left;
+}
+
+.box:hover{
+	opacity: 1;
+	cursor: default;
+}
+
+.box h2 {
+	font-family: Asap;
+	font-size: 22px;
+	color: #FFF;
+}
+
+.box p {
+	font-family: ProximaNova;
+	font-style: italic;
+	font-size: 20px;
+	color: #FFF;
+}
+
+.box ul{
+	margin: 0;
+	padding: 0;
+}
+
+.box li{
+	width: 100%;
+	font-family: ProximaNova;
+	font-style: italic;
+	font-size: 20px;
+	color: #FFF;
+	list-style: none;
+}
+
+.info {
+	background-color: #11a7cb;
+	margin-left: 0;
+	margin-right: 6.25%;
+}

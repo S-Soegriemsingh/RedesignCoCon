@@ -3,23 +3,23 @@
 		<div class='main_container'>
 			<header>
 					<h1>
-						<a href='index.php'>Over CoCon</a>
+						<a href='http://www.colouredconsultancy.nl'>Over CoCon</a>
 					</h1>
 			</header>
 			<div class='content'>
 				<div class='box info'>
-					<a class='main' href='conflict.php'>
+					<a class='main' href='van-conflict-naar-contact'>
 						<h2>Van conflict naar contact</h2>
 					</a>
 				</div>
 				<div class='box image'>
-					<a class='main' href='diversiteit.php'>
+					<a class='main' href='de-kracht-van-diversiteit'>
 						<h2>De kracht van diversiteit</h2>
 					</a>
 				</div>
 				<div class='box testimonials'>
-					<a class='main' href='samen-leren.php'>
-						<h2>Samen leren samen delen.</h2>
+					<a class='main' href='samen-leren-samen-delen'>
+						<h2>Samen leren, samen delen</h2>
 					</a>
 				</div>
 			</div>
