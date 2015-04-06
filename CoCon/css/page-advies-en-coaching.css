@@ -8,6 +8,15 @@ header{
 /* Content
 -------------------------------------------------- */
 
+.content a{
+	color: #FFF;
+	font-size: 15px;
+}
+
+hr {
+	width: 80%;
+}
+
 /* Menu
 ---------------------------------------- */
 
@@ -21,10 +30,9 @@ header{
 }
 
 .box:hover{
-	opacity: 0.8;
-	cursor: pointer;
+	opacity: 1;
+	cursor: default;
 }
-
 .box h2 {
 	font-family: Asap;
 	font-size: 22px;
