@@ -3,7 +3,7 @@
 		<div class='main_container'>
 			<header>
 					<h1>
-						<a href='index.php'>Trainingen</a>
+						<a href='http://colouredconsultancy.nl'>Trainingen</a>
 					</h1>
 			</header>
 			<div class='content'>
